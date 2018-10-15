@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.holderzone.framework.rocketmq.config.RocketMqAutoConfiguration
