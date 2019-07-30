@@ -4,7 +4,7 @@ rocketmq-starter
  rocket mq 结合springboot封装的starter  
  
  监听类继承AbstractRocketMqConsumer类即可实现监听，注意生成和消费组配置。  
-  yml中配置生产组
+  yml中配置生产组  
   rocketmq:  
     &emsp;namesrv-addr: localhost:xxxx  
     &emsp;producer-group-name: xxxxProducer  
